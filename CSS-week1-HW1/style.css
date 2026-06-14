@@ -52,3 +52,34 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+body {
+    color: #111111;
+}
+
+header {
+    color: #ffffff;
+}
+
+nav {
+    color: #ffffff;
+}
+
+main {
+    color: #111111;
+}
+
+main a {
+    color: #003366;
+}
+
+main a:visited {
+    color: #4b0082;
+}
+
+footer {
+    color: #ffffff;
+}
+
+footer a {
+    color: #ffffff;
+}
